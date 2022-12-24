@@ -2,11 +2,11 @@
 
 a fungible token that is ERC-20 compliant
 
-![token contract](/Starter_Code/KaseiCoin%20Token%20Contract1.png)
+![token contract](/Starter_Code/KaseiCoin_Token_Contract1.png)
 
-![crowdsale contract](/Starter_Code/crowdsale%20Contract%20compilation2.png)
+![crowdsale contract](/Starter_Code/crowdsale_Contract_compilation2.png)
 
-1[deployer](/Starter_Code/deployer%20Compiled3.png)
+1[deployer](/Starter_Code/deployer_Compiled3.png)
 
 
 ### Contributors
