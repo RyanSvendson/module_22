@@ -6,7 +6,7 @@ a fungible token that is ERC-20 compliant
 
 ![crowdsale contract](module_22/Starter_Code/crowdsale_Contract_compilation2.png)
 
-![deployer](/Starter_Code/deployer_Compiled3.png)
+![deployer](deployer_Compiled3.png)
 
 
 ### Contributors
